@@ -1,0 +1,12 @@
+{
+  "name": "Mitigation_WAM",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_Deep",
+      "seriesValues": [
+        [2025, 19.3115894976023],
+        [2026, 70.7962540776609]
+      ]
+    }
+  ]
+}

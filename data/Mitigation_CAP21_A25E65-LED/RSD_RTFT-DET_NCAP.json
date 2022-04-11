@@ -1,0 +1,12 @@
+{
+  "name": "Mitigation_CAP21_A25E65-LED",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_Shallow",
+      "seriesValues": [
+        [2027, 89.5290573914582],
+        [2028, 9.94767304349536]
+      ]
+    }
+  ]
+}

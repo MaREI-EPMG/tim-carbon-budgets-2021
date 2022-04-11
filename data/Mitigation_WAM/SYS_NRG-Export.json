@@ -1,0 +1,13 @@
+{
+  "name": "Mitigation_WAM",
+  "data": [
+    {
+      "seriesName": "SEAI_ELECTRICITY",
+      "seriesValues": [
+        [2018, 5.938364141177036],
+        [2049, 0.109983751397475],
+        [2050, 6.422370266600639]
+      ]
+    }
+  ]
+}

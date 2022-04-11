@@ -1,0 +1,16 @@
+{
+  "name": "Mitigation_CAP21_A40E57",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [
+        [2028, 307.178399773183],
+        [2029, 326.499515924489]
+      ]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [[2029, 490.728942051523]]
+    }
+  ]
+}

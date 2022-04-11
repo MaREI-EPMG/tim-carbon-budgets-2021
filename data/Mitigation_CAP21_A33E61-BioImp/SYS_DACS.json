@@ -1,0 +1,19 @@
+{
+  "name": "Mitigation_CAP21_A33E61-BioImp",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [
+        [2028, 329.154255432216],
+        [2029, 308.438166773293]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [2028, 440.461479687932],
+        [2029, 594.272775666416]
+      ]
+    }
+  ]
+}

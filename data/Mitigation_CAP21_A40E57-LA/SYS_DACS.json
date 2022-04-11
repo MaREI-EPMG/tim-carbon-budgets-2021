@@ -1,0 +1,13 @@
+{
+  "name": "Mitigation_CAP21_A40E57-LA",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [[2030, 308.870657871402]]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [[2030, 179.983143184706]]
+    }
+  ]
+}

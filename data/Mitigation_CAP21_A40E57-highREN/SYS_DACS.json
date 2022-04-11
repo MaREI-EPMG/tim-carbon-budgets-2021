@@ -1,0 +1,16 @@
+{
+  "name": "Mitigation_CAP21_A40E57-highREN",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [
+        [2028, 282.141715739241],
+        [2029, 328.159373711334]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [[2029, 611.74708078628]]
+    }
+  ]
+}

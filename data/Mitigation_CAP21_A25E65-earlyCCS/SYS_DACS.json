@@ -1,0 +1,12 @@
+{
+  "name": "Mitigation_CAP21_A25E65-earlyCCS",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [
+        [2028, 10.319275913222],
+        [2029, 169.278939856244]
+      ]
+    }
+  ]
+}

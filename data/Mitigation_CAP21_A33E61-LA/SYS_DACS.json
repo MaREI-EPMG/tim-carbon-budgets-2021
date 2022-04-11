@@ -1,0 +1,16 @@
+{
+  "name": "Mitigation_CAP21_A33E61-LA",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [
+        [2030, 683.238304041342],
+        [2031, 196.828361034258]
+      ]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [[2030, 875.957519928076]]
+    }
+  ]
+}

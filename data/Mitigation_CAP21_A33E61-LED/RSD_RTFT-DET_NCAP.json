@@ -1,0 +1,12 @@
+{
+  "name": "Mitigation_CAP21_A33E61-LED",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_Shallow",
+      "seriesValues": [
+        [2027, 41.2374386979715],
+        [2028, 22.411849090317]
+      ]
+    }
+  ]
+}

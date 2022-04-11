@@ -1,0 +1,27 @@
+{
+  "name": "Mitigation_CAP21_A40E57-lowBio",
+  "data": [
+    {
+      "seriesName": "AGRCO2N",
+      "seriesValues": [
+        [2029, 314.80323244762],
+        [2050, 463.094326816127]
+      ]
+    },
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [[2050, 3416.38859541251]]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [2029, 376.225085285022],
+        [2050, 269.496489027095]
+      ]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [[2050, 637.482512048966]]
+    }
+  ]
+}
